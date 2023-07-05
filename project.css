@@ -2,6 +2,7 @@
     padding: 0;
     margin: 0;
 }
+/* blog section */
 div{
     background-color: grey;
     padding: 10px;
@@ -20,8 +21,23 @@ p{
     text-align: justify;
     color: cyan;
 }
+/* list section */
 li{
     font-size: 24px;
     margin-left: 40px;
     color: cyan;
+}
+/* this is img section  */
+.d1{
+    height: 300px;
+    width: 300px;
+    display: inline-block;
+    border: 3px solid cyan;
+    align-items: center;
+    
+}
+.d1 img{
+    height: 280px;
+    width: 280px;
+    padding: 10px;
 }
